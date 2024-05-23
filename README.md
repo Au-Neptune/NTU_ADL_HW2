@@ -90,3 +90,5 @@ The final report of this project provides a comprehensive overview of the projec
 3. **Generation Strategies**
 
 For more detailed information, please refer to the [full report](./report.pdf).
+
+![rougeL plot](./images/rougeL%20plot.png)
